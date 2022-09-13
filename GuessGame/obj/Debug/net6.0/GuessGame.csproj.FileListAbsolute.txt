@@ -1,0 +1,15 @@
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/bin/Debug/net6.0/GuessGame
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/bin/Debug/net6.0/GuessGame.deps.json
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/bin/Debug/net6.0/GuessGame.runtimeconfig.json
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/bin/Debug/net6.0/GuessGame.dll
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/bin/Debug/net6.0/ref/GuessGame.dll
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/bin/Debug/net6.0/GuessGame.pdb
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.csproj.AssemblyReference.cache
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfoInputs.cache
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfo.cs
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.csproj.CoreCompileInputs.cache
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.dll
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/ref/GuessGame.dll
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.pdb
+/home/charles/Desktop/Projects/backend/bezao2/GuessGame/obj/Debug/net6.0/GuessGame.genruntimeconfig.cache
