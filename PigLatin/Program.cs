@@ -22,7 +22,7 @@ public class Translator
                 Console.WriteLine("Enter English words");
                 var word = Console.ReadLine();
                 // List<string> WordArray = new List <string>();
-                var WordArray = word.Split(" ");
+                var WordArray = word.Trim().Split(" ");
                 for (int i = 0; i < WordArray.Length; i++)
                 {
                     var Pig = WordArray[i].Substring(1, WordArray[i].Length - 1) + WordArray[i].Substring(0, 1) + "ay";
